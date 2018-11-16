@@ -1,0 +1,38 @@
+.users-list{
+    padding: 0px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.users-list li{
+    border-bottom: solid 2px #0000ff;
+    width: 700px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+.users-list li:nth-child(2n){
+    background-color: rgb(0,0,255, .2);
+}
+.users-list li:last-of-type{
+    border-bottom: 0
+}
+.li-container{
+    display: flex;
+    justify-content: space-between;
+}
+.users-list li p{
+    float: left;
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.users-list-container{
+    margin-bottom: 50px;
+    min-height: 430px;
+}

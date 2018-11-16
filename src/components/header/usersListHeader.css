@@ -1,0 +1,8 @@
+.users-list-header{
+    padding-top: 40px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    text-shadow: 2px 2px 0 #4074b5, 2px -2px 0 #4074b5, -2px 2px 0 #4074b5, -2px -2px 0 #4074b5, 2px 0px 0 #4074b5, 0px 2px 0 #4074b5, -2px 0px 0 #4074b5, 0px -2px 0 #4074b5;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+}

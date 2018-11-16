@@ -1,0 +1,17 @@
+.menu{
+    margin: 20px auto;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #0000ff;
+    display: flex;
+    border-radius: 20px;
+}
+.nav-menu {
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    margin-bottom: 10px;
+}

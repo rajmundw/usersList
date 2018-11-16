@@ -1,0 +1,12 @@
+
+.add-user-nav{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.back-to-menu{
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+

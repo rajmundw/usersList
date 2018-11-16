@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Damian De",
+      "id": 1
+    },
+    {
+      "name": "Tomasz Ka",
+      "id": 4
+    },
+    {
+      "name": "Edward Dua",
+      "id": 5
+    },
+    {
+      "name": "Rajmund Waszkiel",
+      "id": 6
+    }
+  ]
+}

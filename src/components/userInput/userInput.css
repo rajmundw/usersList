@@ -1,0 +1,18 @@
+label{
+    font-size: 15px;
+    color: #0000ff;
+    letter-spacing: 2px;
+
+}
+
+input{
+    padding-left: 5px;
+    background-color: #0000ff;
+    color: white;
+    width: 320px;
+    margin-bottom: 50px;
+}
+
+.user-input{
+    margin-bottom: 50px;
+}
