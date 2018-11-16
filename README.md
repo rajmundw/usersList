@@ -1,5 +1,5 @@
-<h1>goldPrice</h1> </br>
-<p>Thanks to this application you can compare gold price</p>
+<h1>userList</h1> </br>
+<p>Thanks to this application you can add user,edit user, delete user and see users list</p>
 <h2>Technology :</h2>
 <ul>
 		<li>React</li>
@@ -19,15 +19,16 @@
 <ul>
 	<li>You have to open your console inside main folder with pliks and write in it "npm i"
 		</li>
-	<li>To run file you have to write in console "npm start". Aplication will start on locahost</li>
+	<li>To run JSON you have to open json folder and write in console "json-server --watch db.json". JSON will start on locahost</li>
+	<li>To run npm you have to write in console "npm start" in main folder. Aplication will start on locahost</li>
 </ul>
 
 <h2>Functionalities:</h2>
 <ul>
-	<li>List of gold price</li>
-	<li>Choice period of time to comper gold price</li>
-	<li>Showing max i min price with data and median</li>
-  <li>Showing errors with reason of its</li>
+	<li>List of users</li>
+	<li>Edit user data</li>
+	<li>Delete users</li>
+  <li>Save user on JSON</li>
 </ul>
 
 <h2>ToDo:</h2>
